@@ -7,7 +7,7 @@ const config = {
   }),
   kit: {
     paths: {
-      base: '/todo-tracker', // important for GitHub Pages
+      base: 'Cameron-Showcase/todo-tracker', // important for GitHub Pages
     }
   }
 };
